@@ -3,6 +3,6 @@ java
 =======
 hellow
 >>>>>>> js-assignments
-css
+javascript
 body
 Hey bro this Rohit kumar.
